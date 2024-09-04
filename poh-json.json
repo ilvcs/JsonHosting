@@ -2,7 +2,7 @@
   "$metadata": {
     "type": "pohcheck",
     "uris": {
-      "jsonLdContext": "https://github.com/ilvcs/JsonHosting/blob/main/poh-context.json"
+      "jsonLdContext": "https://ilvcs.github.io/JsonHosting/poh-context.json"
     },
     "version": "1.0"
   },
